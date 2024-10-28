@@ -1,0 +1,22 @@
+.bc_mns_fe_posts_list {
+  list-style-type: none;
+  margin: 0;
+}
+.bc_mns_fe_posts_list li {
+  margin-bottom: 10px;
+}
+.bc_mns_fe_posts_list li.bc_mns_active_post a {
+  color: rgb(46, 4, 4);
+  font-weight: bold;
+}
+
+.bc_mns_fe_in_series_posts_list {
+  list-style-type: none;
+  margin: 0;
+}
+
+.bc_mns_child_series .bc_mns_fe_child_posts {
+  list-style-type: none;
+}
+
+/*# sourceMappingURL=public.css.map */
